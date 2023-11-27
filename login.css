@@ -1,0 +1,19 @@
+/* Add your custom styles here */
+
+/* Center the form on the page */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Give some padding to the form */
+.card {
+    padding: 20px;
+}
+
+/* Add space between form elements */
+.form-group {
+    margin-bottom: 15px;
+}
